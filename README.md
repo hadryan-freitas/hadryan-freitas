@@ -10,27 +10,46 @@ You can click the Preview link to take a look at your changes.
 ### <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=4959&pause=1000&color=00F7A4&random=false&width=435&lines=HELLO+WORLD!;I'M+HADRYAN!;I+WORK+IN+CYBER-SECURITY" alt="Typing SVG" /></a>
 </h1>
 
-### Who am I?
+## Who am I?
 <!-- Informações sobre você -->
-Hello! I'm Hadryan, a tech enthusiast with a passion for cybersecurity and web development. Currently, I am attending college for Cybersecurity, where I am improving my skills and knowledge in this ever-evolving field.
+Hello! I'm Hadryan, a cybersecurity specialist and tech enthusiast currently working as a trainee in Information Security. I am pursuing a degree in Cybersecurity with a focus on penetration testing and am passionate about protecting systems and data in this ever-evolving field.
 
-### About me:
+## About me:
 
 <img align="right" src="https://github.com/Rubenscode/Rubenscode/blob/main/img/computer.png" width="350">
 
-🎓 Cybersecurity student, focused on acquiring practical and theoretical skills to protect systems and data.
-💻 Web Developer: I started my journey in the tech world in 2023, learning HTML and CSS on your own. Since then, I've expanded my knowledge to include JavaScript, exploring ways to make the web more interactive and secure.
-🔍 Interest in Digital Forensics and Pentest: I am always looking to learn more about digital investigation and penetration testing, looking to identify vulnerabilities and protect systems from cyberattacks.
-### Experience and Knowledge:
+🎓 **Cybersecurity Student**: Dedicated to acquiring both practical and theoretical skills necessary to excel in cybersecurity. My studies are centered on penetration testing, equipping me with the expertise to identify vulnerabilities and protect systems from cyber threats.
 
-🛡️ Cyber Security: Solid knowledge of security practices, including threat detection, intrusion prevention, and incident response.
-💼 Personal Projects: I have participated in personal projects related to cybersecurity, such as vulnerability analysis and firewall configuration.
-🌐 Web Development: Experience in creating responsive and accessible websites and web applications, always prioritizing security and performance.
+🛡️ **Information Security Trainee**: Applying my knowledge to real-world security challenges, enhancing my understanding of security practices, threat mitigation, and incident response.
 
+🔍 **Specialist in Cybersecurity and Pentesting**: Focused on penetration testing and continuously learning to discover vulnerabilities and develop strategies to safeguard systems.
 
-Ethical hacker | Focused in Pentest | Cybersecurity Student. 💻
+💻 **Understanding of Computer Hardware**: A solid understanding of computer hardware complements my cybersecurity expertise by providing a comprehensive view of system vulnerabilities and security measures.
 
-Enthusiast of Technology and coding  👽
+🛠️ **Problem-Solving Skills**: Strong problem-solving abilities to effectively address and resolve complex security issues and challenges.
+
+## Certifications:
+
+- CompTIA Security+ (Studying)
+- Certified Ethical Hacker (CEH) (Planned)
+- Offensive Security Certified Professional (OSCP) (Planned)
+
+## Experience and Knowledge:
+
+🛡️ **Cybersecurity Expertise**: Proficient in security practices including threat detection, intrusion prevention, and incident response. Committed to enhancing system security and safeguarding sensitive information.
+
+🔍 **Penetration Testing Focus**: Specialize in applying ethical hacking techniques to identify and remediate security weaknesses, with hands-on experience using tools such as:
+  - **Nmap**: For network discovery and vulnerability scanning.
+  - **Metasploit**: For penetration testing and exploiting vulnerabilities.
+  - **Metasploitable**: For testing and improving penetration testing skills.
+  - **IPTables**: For firewall configuration and management.
+  - **Wireshark**: For network traffic analysis and troubleshooting.
+
+🌐 **Enthusiast of Technology and Coding**: Passionate about staying at the forefront of technological advancements and leveraging my skills to develop and implement secure solutions.
+
+## Goals:
+
+While I am not actively seeking employment at the moment, my goal is to continue growing as a cybersecurity professional by achieving advanced certifications and contributing to innovative security solutions. I am eager to tackle complex security challenges and make a meaningful impact in the field.
 
 ### My Stats
 
