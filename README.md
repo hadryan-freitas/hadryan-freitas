@@ -1,91 +1,87 @@
-<!---
-Hadryanpaulo/Hadryanpaulo is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!-- Banner -->
-<img src="https://github.com/Hadryanpaulo/Hadryanpaulo/blob/6dc5391e9a5e99fdad3608bb932f5a712eebe828/Imagem%20de%20Capa%20para%20Artigo%20do%20LinkedIn%20Simples%20Moderno%20Cita%C3%A7%C3%A3o%20Motivacional%20Amarelo%20Neon%20e%20Preto%20(2).png" >
+<div align="center">
+  <img src="./banner-de-fundo-portifolio-github.png" alt="Hadryan Freitas — Cybersecurity Portfolio" width="100%">
 
-<!-- Texto animado(imagem svg) -->
+  # Hadryan Freitas
 
-### <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=4959&pause=1000&color=00F7A4&random=false&width=435&lines=HELLO+WORLD!;I'M+HADRYAN!;I+WORK+IN+CYBER-SECURITY" alt="Typing SVG" /></a>
-</h1>
+  **Cybersecurity Analyst | Blue Team | Security Monitoring | Threat Detection**
 
-## Who am I?
-<!-- Informações sobre você -->
-Hello! I'm Hadryan, a cybersecurity specialist and tech enthusiast currently working as a trainee in Information Security. I am pursuing a degree in Cybersecurity with a focus on penetration testing and am passionate about protecting systems and data in this ever-evolving field.
+  Building hands-on experience in Security Operations, Detection Engineering, Incident Response, and Security Automation.
 
-## About me:
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-hadryan--freitas-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadryan-freitas/)
+  [![GitHub](https://img.shields.io/badge/GitHub-hadryan--freitas-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hadryan-freitas)
+</div>
 
-<img align="right" src="https://github.com/Rubenscode/Rubenscode/blob/main/img/computer.png" width="350">
+## About Me
 
-🎓 **Cybersecurity Student**: Dedicated to acquiring both practical and theoretical skills necessary to excel in cybersecurity. My studies are centered on penetration testing, equipping me with the expertise to identify vulnerabilities and protect systems from cyber threats.
+Cybersecurity Analyst focused on Blue Team Operations, Threat Detection, Security Monitoring, and Automation. I am developing practical experience through home labs, documented projects, and continuous learning.
 
-🛡️ **Information Security Trainee**: Applying my knowledge to real-world security challenges, enhancing my understanding of security practices, threat mitigation, and incident response.
+My objective is to understand how security teams collect telemetry, investigate alerts, document incidents, improve detections, and automate repeatable tasks. This GitHub profile records that development through clear and reproducible work.
 
-🔍 **Specialist in Cybersecurity and Pentesting**: Focused on penetration testing and continuously learning to discover vulnerabilities and develop strategies to safeguard systems.
+## Current Focus
 
-💻 **Understanding of Computer Hardware**: A solid understanding of computer hardware complements my cybersecurity expertise by providing a comprehensive view of system vulnerabilities and security measures.
+- SIEM deployment, monitoring, and alert triage
+- Wazuh and ELK Stack fundamentals
+- Windows Event Logs and Sysmon telemetry
+- Threat hunting and detection logic
+- Incident response fundamentals
+- MITRE ATT&CK mapping
+- Python for security automation
 
-🛠️ **Problem-Solving Skills**: Strong problem-solving abilities to effectively address and resolve complex security issues and challenges.
+## Technical Skills
 
-## Certifications:
+| Area | Technologies and Concepts |
+| --- | --- |
+| **Blue Team** | Wazuh, ELK Stack, SIEM Concepts, Sysmon, Windows Event Logs |
+| **Security Operations** | Alert Triage, Log Analysis, Incident Response, Threat Hunting |
+| **Detection Engineering** | Detection Fundamentals, Rule Testing, MITRE ATT&CK Mapping |
+| **Programming** | Python, Bash, PowerShell |
+| **Infrastructure** | Linux, Windows, Docker, Git |
 
-- CompTIA Security+ (Studying)
-- Certified Ethical Hacker (CEH) (Planned)
-- Offensive Security Certified Professional (OSCP) (Planned)
+> These are areas I am actively studying and applying. Each project documents its scope, implementation, results, limitations, and lessons learned.
 
-## Experience and Knowledge:
+## Portfolio Projects
 
-🛡️ **Cybersecurity Expertise**: Proficient in security practices including threat detection, intrusion prevention, and incident response. Committed to enhancing system security and safeguarding sensitive information.
+| Category | Project | Status |
+| --- | --- | --- |
+| **Security Monitoring** | Wazuh home lab for centralized Linux and Windows monitoring | In development |
+| **Detection Engineering** | Windows telemetry and Sysmon detection lab | Planned |
+| **Automation** | Python tools for log analysis and security task automation | Planned |
+| **Incident Response** | Investigation reports based on simulated security alerts | Planned |
+| **Learning Projects** | Focused exercises documenting objectives and lessons learned | Ongoing |
 
-🔍 **Penetration Testing Focus**: Specialize in applying ethical hacking techniques to identify and remediate security weaknesses, with hands-on experience using tools such as:
-  - **Nmap**: For network discovery and vulnerability scanning.
-  - **Metasploit**: For penetration testing and exploiting vulnerabilities.
-  - **Metasploitable**: For testing and improving penetration testing skills.
-  - **IPTables**: For firewall configuration and management.
-  - **Wireshark**: For network traffic analysis and troubleshooting.
+## Project Documentation Standard
 
-🌐 **Enthusiast of Technology and Coding**: Passionate about staying at the forefront of technological advancements and leveraging my skills to develop and implement secure solutions.
+Every security project in this portfolio aims to include:
 
-## Goals:
+1. Problem statement and objective
+2. Architecture, environment, and technologies used
+3. Reproducible setup and implementation steps
+4. Screenshots, logs, alerts, or example outputs
+5. Investigation process and technical analysis
+6. MITRE ATT&CK mapping when applicable
+7. Lessons learned, limitations, and next improvements
 
-While I am not actively seeking employment at the moment, my goal is to continue growing as a cybersecurity professional by achieving advanced certifications and contributing to innovative security solutions. I am eager to tackle complex security challenges and make a meaningful impact in the field.
+## Learning Roadmap
 
-### My Stats
+- [ ] Deploy a Wazuh manager and connect Linux and Windows agents
+- [ ] Collect and analyze Windows Event Logs and Sysmon telemetry
+- [ ] Create and test detection rules mapped to MITRE ATT&CK
+- [ ] Document alert triage and incident investigation workflows
+- [ ] Build Python scripts for log parsing and enrichment
+- [ ] Publish reproducible Blue Team project documentation
 
+## How I Work
 
-<!-- Estatísticas do GitHub -->
-<p align="center">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Hadryanpaulo&show_icons=true&theme=radical">
-</p>
-<p align="center">
-    <img height="222" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hadryanpaulo&layout=compact&theme=radical">
-</p>
+1. Build a small and reproducible lab.
+2. Generate or collect relevant security telemetry.
+3. Investigate activity and document the reasoning process.
+4. Create, test, and improve detections based on observations.
+5. Automate repeatable steps where automation adds value.
+6. Record lessons learned and define the next iteration.
 
-### My Skills
-<!-- Ícones representando suas habilidades -->
-<p align="left">
-    <a href="https://github.com/Hadryanpaulo">
-        <img src="https://skillicons.dev/icons?i=vscode,html,css,javascript,python,linux,powershell,redhat">
-    </a>
-</p>
+## Connect
 
-### About Me 
-<!-- Links para outras plataformas -->
-<a href="https://www.dio.me/users/paulolima3425">
-    <img src="https://github.com/Hadryanpaulo/Hadryanpaulo/raw/b55de4628a36eaad43f0edc2709993529ae48b37/dio.me.jpeg" alt="DIO Logo" width="40">
-</a>
+I am open to exchanging knowledge about Blue Team Operations, Security Monitoring, Threat Detection, Incident Response, and Security Automation.
 
-<p align="left">
-    <a href="https://linkedin.com/in//hadryan-paulo">
-        <img height="30"src="https://skillicons.dev/icons?i=linkedin">
-    </a>
-</p>
-
-<!-- Agradecimento -->
-<p align="center"> Thanks for visiting.</p>
-
-<!-- Troféus GitHub -->
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="GitHub Trophies">
-</p>
+- [LinkedIn](https://www.linkedin.com/in/hadryan-freitas/)
+- [GitHub](https://github.com/hadryan-freitas)
